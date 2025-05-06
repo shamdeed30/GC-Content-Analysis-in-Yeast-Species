@@ -2,4 +2,4 @@
 - Pipelines include various yeast species – there are slight changes in pre-processing of the data files based on the species being analyzed.
 - Some of the analyses and visualizations are not done in all of the pipelines, so taking a quick glimplse through each file is highly encouraged.
 
-*** Moderate understanding of Python and Statistics is necessary to fully grasp the algorithms and analyses. However, I am currently working on creating an elaborate documentation that explains the algorithms, reasoning, and findings.
+*** Moderate understanding of Python and Statistics is necessary to fully grasp the algorithms and analyses. However, I am currently working on creating an elaborate documentation that explains the algorithms, reasoning, and findings. The documentation would be published by mid-summer.
